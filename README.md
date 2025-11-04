@@ -1,3 +1,4 @@
+---
 title: "🧰 ETL desde Google Sheets — Consolidación 2023–2025"
 description: >
   Este repositorio contiene un Jupyter Notebook que implementa un flujo de extracción
@@ -112,3 +113,4 @@ license: "MIT (o la que prefieras)"
 note: >
   Si lo deseas, se puede generar automáticamente un diccionario de datos
   con nombres de columnas, tipos y ejemplos detectados desde el notebook.
+---
